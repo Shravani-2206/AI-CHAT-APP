@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from "https://esm.run/@google/generative-ai";
 
-const API_KEY = "AIzaSyDFPinwPAqhDJoacSAoNNCS0ccoq5Nj3tQ"; 
+const API_KEY = "Enter Your API key"; 
 
 // 1. Initialize the library
 const genAI = new GoogleGenerativeAI(API_KEY);
